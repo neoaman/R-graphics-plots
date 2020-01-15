@@ -1,6 +1,22 @@
 # graphics in R
 Some examples of graphs, may help you to improve your graphics skill in r programming
 
+<hr>
+
+# I have covered all Necessary plots like
+
+<ul>
+  <li> Histogram with Density Plot 
+  <li> Multiple Bar plots
+  <li> Pie Chart with labels
+    <li> function curves
+  <li> Matrix plot (Comparison plot using mfrow)
+  <li>  Scatter plot with multiple regression lines
+<li> Multiple plots in one canvas
+
+
+<hr>
+
 ## We have seen lots of Univeriate and Biveriate plots in real life, Lets make it possible using the Basic and ggplot2
 
 ## Here you can see how to do multiple plots in one chart using basic plotting functions like mfrow
